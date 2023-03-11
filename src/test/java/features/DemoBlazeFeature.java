@@ -36,7 +36,7 @@ public class DemoBlazeFeature extends DemoBlazeObject {
     }
 
     @Test
-    public void TestDevice(){
+    public void TestDevice5(){
         CompareInformationDevice(data);
     }
 
